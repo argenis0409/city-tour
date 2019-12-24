@@ -14,3 +14,9 @@ npm i
 ```
 npm start
 ```
+
+## General Info
+After running the above commands the project should open in your browser.
+
+### Note:
+Under Construction
